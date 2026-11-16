@@ -1,5 +1,7 @@
 # Buddy Messenger
 
+![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange?style=flat-square&logo=rust)
+
 <p align="center">
   <strong>The soul of 2009 messaging, rebuilt for today.</strong>
 </p>
