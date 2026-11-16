@@ -1,2 +1,43 @@
-# Buddy-Messenger
-The soul of 2009 messaging, rebuilt for today.
+# Buddy Messenger
+
+<p align="center">
+  <strong>The soul of 2009 messaging, rebuilt for today.</strong>
+</p>
+
+<p align="center">
+  A fast, secure, Windows desktop messenger combining classic MSN Messenger charm with a modern Windows 7 Frutiger Aero aesthetic.
+</p>
+
+---
+
+## 🌟 Overview
+
+Remember when logging on meant actually talking to your favorite people instead of scrolling through endless algorithmic feeds? **Buddy Messenger** is an exclusive Windows desktop application designed to bring back cozy, distraction-free messaging without the bloat, ads, or distraction traps of modern platforms.
+
+- **Platform:** Windows 10 & 11 (64-bit)
+- **Current Version:** v0.9 (Beta)
+
+---
+
+## ✨ Key Features
+
+* **Zero Bloat:** No ads, no algorithmic feeds. Just a clean space to add the people you care about and chat.
+* **Modern Privacy & Security:** Encrypted chats by default. Messages are secure and cannot be read via the server, not even by administrators.
+* **High Performance:** Powered by Rust, running light at around ~110 MB RAM. Fast, responsive, and smooth.
+* **Classic MSN Nostalgia:** Features classic online sign-in chimes, rich file sharing, emojis, and even the iconic MSN Nudge feature!
+* **Frutiger Aero Aesthetic:** Sleek translucent Windows 7 Aero glass themes and a 3D volumetric glass butterfly emblem design.
+* **Classic Buddy List:** Keep track of who is online with a familiar, retro-inspired contact list.
+
+---
+
+## 📥 Installation
+
+1. Head over to the [Buddy Messenger Website](https://cjgsoftware.netlify.app/buddymessenger).
+2. Download the installer for Windows 10 & 11 (64-bit).
+3. Run the installer and sign in to start chatting!
+
+---
+
+## 📄 License
+
+Copyright © 2026 Connor Julian-Golding. All rights reserved.
