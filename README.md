@@ -44,6 +44,12 @@ Remember when logging on meant actually talking to your favorite people instead 
 
 ---
 
+## 🔒 Encryption and Security
+
+Buddy keeps your messages and account safe by scrambling your data into unreadable code before it ever leaves your computer. When you send a message, file, or nudge, the app encrypts the text with a secure key unique to the conversation between you and your friend - meaning anyone looking directly at the server database only sees random gibberish, and only you and your friend's app hold the key to decode it. On top of that, your passwords are never saved in plain text (the server only verifies them using irreversible cryptographic hashes), all data travels over secure HTTPS connections so no one on your Wi-Fi can spy on it, and any login details you choose to remember on your PC are locked inside an encrypted vault (`vault.dat`) in %appdata% rather than readable files.
+
+---
+
 ## 📄 License
 
 Copyright © 2026 Connor Julian-Golding. All rights reserved.
