@@ -10,6 +10,10 @@
   A fast, secure, Windows desktop messenger combining classic MSN Messenger charm with a modern Windows 7 Frutiger Aero aesthetic.
 </p>
 
+<p align="center">
+  <img src="login-screenshot.png" alt="Buddy Messenger Sign-In Screen" width="320">
+</p>
+
 ---
 
 ## 🌟 Overview
@@ -34,7 +38,7 @@ Remember when logging on meant actually talking to your favorite people instead 
 
 ## 📥 Installation
 
-1. Head over to the [Buddy Messenger Website](https://cjgsoftware.netlify.app/buddymessenger).
+1. Head over to the [Buddy Messenger Website](https://cjgsoftware.netlify.app/buddymessenger) or grab the latest build from the **Releases** tab on the right.
 2. Download the installer for Windows 10 & 11 (64-bit).
 3. Run the installer and sign in to start chatting!
 
