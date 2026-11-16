@@ -31,7 +31,7 @@ Remember when logging on meant actually talking to your favorite people instead 
 * **Modern Privacy & Security:** Encrypted chats by default. Messages are secure and cannot be read via the server, not even by administrators.
 * **High Performance:** Powered by Rust, running light at around ~110 MB RAM. Fast, responsive, and smooth.
 * **Classic MSN Nostalgia:** Features classic online sign-in chimes, rich file sharing, emojis, and even the iconic MSN Nudge feature!
-* **Frutiger Aero Aesthetic:** Sleek translucent Windows 7 Aero glass themes and a 3D volumetric glass butterfly emblem design.
+* **Frutiger Aesthetic:** Sleek Windows 7 themes and a 3D volumetric glass butterfly emblem design.
 * **Classic Buddy List:** Keep track of who is online with a familiar, retro-inspired contact list.
 
 ---
