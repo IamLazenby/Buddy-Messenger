@@ -21,7 +21,6 @@
 Remember when logging on meant actually talking to your favorite people instead of scrolling through endless algorithmic feeds? **Buddy Messenger** is an exclusive Windows desktop application designed to bring back cozy, distraction-free messaging without the bloat, ads, or distraction traps of modern platforms.
 
 - **Platform:** Windows 10 & 11 (64-bit)
-- **Current Version:** v0.9 (Beta)
 
 ---
 
@@ -33,6 +32,7 @@ Remember when logging on meant actually talking to your favorite people instead 
 * **Classic MSN Nostalgia:** Features classic online sign-in chimes, rich file sharing, emojis, and even the iconic MSN Nudge feature!
 * **Frutiger Aesthetic:** Sleek Windows 7 themes and a 3D volumetric glass butterfly emblem design.
 * **Classic Buddy List:** Keep track of who is online with a familiar, retro-inspired contact list.
+* **Group Chats (Up to 10 People):** Have group chats with up to 10 people!
 
 ---
 
